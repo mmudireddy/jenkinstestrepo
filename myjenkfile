@@ -1,4 +1,4 @@
 hello jenkins clone this repo to get this file
 adding lines to trigger poll scm build mode
-
 trigger jenkins build through github hooks
+looks clean
